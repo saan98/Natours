@@ -7,7 +7,7 @@
     "compile:sass": "node-sass sass/main.scss css/style.css -w",
     "build:sass": "node-sass sass/main.scss css/style.min.css --output-style compressed"
   },
-  "author": "",
+  "author": "Saan98",
   "license": "ISC",
   "devDependencies": {
     "node-sass": "^9.0.0"
